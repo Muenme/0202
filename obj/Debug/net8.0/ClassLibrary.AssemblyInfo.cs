@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ClassLibrary")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Muenme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Библиотека для проверки себя для 02.02")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a76fc377fe5585564ed19f9dd5c1b5f4d1be745")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

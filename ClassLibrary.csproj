@@ -4,6 +4,10 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<PackadeId>CalculuteForZeroTwoZeroTwo</PackadeId>
+	<Version>1.0.0</Version>
+	<Authors>Muenme</Authors>
+	<Description>Библиотека для проверки себя для 02.02</Description>
   </PropertyGroup>
 
 </Project>
