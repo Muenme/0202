@@ -1,0 +1,11 @@
+C:\projeckt\0202\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\projeckt\0202\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\projeckt\0202\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\projeckt\0202\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeckt\0202\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\projeckt\0202\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\projeckt\0202\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\projeckt\0202\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\projeckt\0202\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\projeckt\0202\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\projeckt\0202\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
